@@ -24,7 +24,7 @@ def calculate_std_deviation(data, mean):
 
 # Generate 500 random numbers between -20 and +20
 random_data = [random.uniform(-20, 20) for _ in range(500)]
-
+ 
 # Calculate mean, median, and standard deviation using user-defined functions
 mean_value = calculate_mean(random_data)
 median_value = calculate_median(random_data)
