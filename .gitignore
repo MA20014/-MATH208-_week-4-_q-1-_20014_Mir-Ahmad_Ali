@@ -1,6 +1,6 @@
 import random
 import matplotlib.pyplot as plt
-
+ 
 # Function to calculate the mean of a list of numbers
 def calculate_mean(data):
     return sum(data) / len(data)
